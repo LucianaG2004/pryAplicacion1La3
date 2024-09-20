@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace pryAplicacion1La3
 {
-    public partial class Form1 : Form
+    public partial class FrmReportes : Form
     {
-        public Form1()
+        public FrmReportes()
         {
             InitializeComponent();
         }
